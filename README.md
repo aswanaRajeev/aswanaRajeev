@@ -1,6 +1,6 @@
 
+#Languages and Tools
 
-### Technologies I work with:
 
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
